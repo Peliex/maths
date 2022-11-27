@@ -52,5 +52,4 @@ Mkfile.old
 dkms.conf
 
 # Output and solution files, workspace dirs
-bin/
-.vscode/
+build/
